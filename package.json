@@ -1,0 +1,31 @@
+{
+  "name": "auctions_beed.ng",
+  "version": "1.0.0",
+  "description": "auctions systme with backend in node and front end in react. A beed.ng challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auctions",
+    "api",
+    "starttime",
+    "endtime",
+    "node",
+    "sequelize",
+    "mysql",
+    "react",
+    "usecontext",
+    "usestate",
+    "timer"
+  ],
+  "author": "Adesemoye Olusola",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0"
+  }
+}
